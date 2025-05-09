@@ -64,7 +64,7 @@ export default function RecruitmentPlatform() {
           <div className="p-6 pt-4 relative min-h-[200px]">
             <div className="absolute  md:bottom-[12.5rem] bottom-[15.5rem] md:right-2  right-[12%]">
               <img
-                src="/assets/rce.png?height=180&width=120"
+                src="/assets/11Recommendation letter-cuate 1.png?height=180&width=120"
                 alt="Recruiter illustration"
                 className="  h-[14rem] lg:h-[14rem] md:h-[12rem] 3xl:h-[22rem] 2xl:h-[19rem] "
               />

@@ -73,8 +73,8 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex flex-row gap-10 md:w-1/2 md:mx-auto lg:mx-0 ">
-          <div>
+        <div className="relative right-[2rem] md:static flex flex-row gap-10 md:w-1/2 md:mx-auto lg:mx-0">
+        <div>
             <h5 className="uppercase opacity-50 mb-3 ml-8">Company</h5>
             <ul className="space-y-2">
               <li>
@@ -141,7 +141,7 @@ const Footer = () => {
           </div>
 
           <div>
-            <h5 className="uppercase opacity-50 mb-3 ml-8">Quick Link</h5>
+            <h5 className="uppercase opacity-50 mb-3 ml-7">Quick Link</h5>
             <ul className="space-y-2">
               <li>
                 <Link

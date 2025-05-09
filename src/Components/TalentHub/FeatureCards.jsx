@@ -20,7 +20,7 @@ const FeatureCard = ({ title, description, src }) => {
           <img src={src} alt="" className="md:hidden w-[60%] mb-4" />
         </div>
         <div className="hidden md:flex items-start">
-          <img src={src} alt="" />
+          <img src={src} alt="" className="w-[30rem]" />
         </div>
       </div>
 
